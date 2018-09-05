@@ -18,7 +18,7 @@ ctx.fillText("CANVAS MEMES!", 100, 100);
 
 
 
-
+ 
 
 image.onload = function(){
   // console.log("loadedimage");
